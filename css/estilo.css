@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+#lista {
+  border-width: 1px;    
+  border-style: solid;
+  color: rgb(19, 19, 19); 
+  border-radius: 5px;
+  background-color: #ffffff;
+  width: 40%;
+  padding-left: 25px;
+  padding-bottom: 20px;
+}
+
+div {
+  padding-top: 14px;
+  font-size: 16px;
+  color: rgb(19, 19, 19); 
+}
+
+
+ol li {
+  padding-left: 14px;
+}
+
+h1, h2 {
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  font-size: 25px;
+  color: rgb(19, 19, 19); 
+
+}
+
+h1 {
+  font-size: 31px;
+  color: rgb(19, 19, 19); 
+
+}
+
+.imagem { 
+  width: 70%;
+  border-radius: 10px;
+}
+
+p {
+  padding-right: 5px;
+  padding-left: 1px;
+  font-size: 16px;
+  color: rgb(19, 19, 19); 
+}
+
